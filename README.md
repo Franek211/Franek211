@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Franek211
-- 👀 I’m interested in Programing, CNC, 3D Printing and Electronic
+- 👀 I’m interested in Programing, CNC, 3D Printing and Electronic also ... CAD
 - 🌱 I’m currently learning C and Python
 - 📫 How to reach me: contact me on dc gtnh_is_here
 
